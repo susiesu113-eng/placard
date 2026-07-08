@@ -1,0 +1,16 @@
+{
+  "name": "Placard — Poster Maker",
+  "short_name": "Placard",
+  "description": "Six centuries of art history. One poster for your shop.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFEDE7",
+  "theme_color": "#EFEDE7",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
